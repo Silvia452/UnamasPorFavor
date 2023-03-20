@@ -2,7 +2,18 @@
 
 Enlace al repositorio: https://github.com/Silvia452/UnamasPorFavor
 
-## 1. a) ¿Qué calcula la llamada a la función recursiva bisect(0,N)? Si cambiamos el valor de N, ¿qué estaríamos calculando? ¿Y si cambiásemos la función f(x)?
+## 1. Dado el siguiente fragmento de código C:
+static final double N = 2; static final double PREC = 1e-6;
+static double f (double x)
+{ return x*x-N; }
+static double bisect (double min, double max) { double med = (min+max)/2;
+if (max-min<PREC) { return med;
+} else if (f(min)*f(med)<0) { return bisect (min,med);
+} else {
+return bisect (med,max); }}
+
+a) ¿Qué calcula la llamada a la función recursiva bisect(0,N)? Si cambiamos el valor de N, ¿qué estaríamos calculando? ¿Y si cambiásemos la función f(x)?
+
 La llamada de función recursiva bisect(0,N) calcula la raíz cuadrada de N utilizando el método de bisección. 
 
 Si cambiamos el valor de N, la función de bisect calcula la raíz cuadrada del nuevo valor de N. Por ejemplo, si cambiamos N a 4, la función de bisección calcula la raíz cuadrada de 4. 
