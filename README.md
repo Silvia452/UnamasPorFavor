@@ -30,6 +30,7 @@ if ((num%div) == 0) { System.out.println(div); f(num/div,div);
 } else {
 f(num,div+1); }
 } }
+
 a) Dado un número cualquiera x, ¿qué nos muestra por pantalla la llamada a la función recursiva f(x,2)? ¿Cuál sería un nombre más adecuado para la función f?
 
 
