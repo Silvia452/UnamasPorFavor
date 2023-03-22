@@ -33,5 +33,10 @@ f(num,div+1); }
 
 a) Dado un número cualquiera x, ¿qué nos muestra por pantalla la llamada a la función recursiva f(x,2)? ¿Cuál sería un nombre más adecuado para la función f?
 
+La función f realiza la factorización de un número en factores primos de forma recursiva. Si se llama a la función f(x,2), la función empezará dividiendo x entre 2 y comprobará si es un factor primo. Si lo es, se imprimirá por pantalla el valor de 2. Después, la función se llamará recursivamente con el cociente de la división (es decir, x/2) y el divisor 2. Si x no es divisible por 2, la función se llamará recursivamente con el mismo valor de x y un divisor incrementado en 1. El proceso se repetirá hasta que el número se haya factorizado completamente en factores primos.
+
+Por lo tanto, si llamamos a la función f(x,2), esta imprimirá los factores primos de x. El nombre adecuado para esta función sería "factorizar" o "factorizardeFormaRecursiva".
+
+
 
 b) Implemente un algoritmo iterativo y uno implementado mediante expresiones lambda equivalentes.
