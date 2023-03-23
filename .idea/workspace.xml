@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecdef0ff-824d-4eb1-9833-d7fb2a1c4109" name="Changes" comment="Ejercicio 2.b y creados main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/numeroConvertir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/palindromo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/Euclides.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio2/algoritmoImplementado2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/algoritmoImplementado2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,6 +44,26 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio3.Main" />
+      <module name="UnamasPorFavor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +74,8 @@
       <updated>1679308113261</updated>
       <workItem from="1679308119674" duration="172000" />
       <workItem from="1679313589770" duration="1000000" />
-      <workItem from="1679474058257" duration="545000" />
+      <workItem from="1679474058257" duration="1229000" />
+      <workItem from="1679576438017" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1.b">
       <created>1679314776033</created>
@@ -73,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679315145336</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio 2.b y creados main">
+      <created>1679475104471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679475104471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
