@@ -1,10 +1,15 @@
 package ejercicio5;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-        int m = 24;
-        int n = 16;
+        Scanner sn = new Scanner(System.in);
+        System.out.println("Ingrese un numero: ");
+        int m = sn.nextInt();
+        System.out.println("Ingrese otro numero: ");
+        int n = sn.nextInt();
 
         int gcd1 = Euclides.gcdRecursive(m, n);
         int gcd2 = Euclides.gcdIterative(m, n);
