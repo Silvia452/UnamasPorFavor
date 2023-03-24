@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecdef0ff-824d-4eb1-9833-d7fb2a1c4109" name="Changes" comment="Ejercicio 2.b y creados main">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/numeroConvertir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/palindromo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/Euclides.java" afterDir="false" />
+    <list default="true" id="ecdef0ff-824d-4eb1-9833-d7fb2a1c4109" name="Changes" comment="Empezado ejercicio 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio5/Euclides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/Euclides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,9 @@
       <workItem from="1679308119674" duration="172000" />
       <workItem from="1679313589770" duration="1000000" />
       <workItem from="1679474058257" duration="1229000" />
-      <workItem from="1679576438017" duration="788000" />
+      <workItem from="1679576438017" duration="1302000" />
+      <workItem from="1679582867906" duration="749000" />
+      <workItem from="1679594340489" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1.b">
       <created>1679314776033</created>
@@ -105,7 +104,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679475104471</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Terminado ejercicio 3">
+      <created>1679579779604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579779604</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Terminado ejercicio 4">
+      <created>1679579801266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579801266</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Terminado main principal">
+      <created>1679579816457</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579816457</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Empezado ejercicio 5">
+      <created>1679579829688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579829688</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +152,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio 1.b" />
     <MESSAGE value="Ejercicio 2.b y creados main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2.b y creados main" />
+    <MESSAGE value="Terminado ejercicio 3" />
+    <MESSAGE value="Terminado ejercicio 4" />
+    <MESSAGE value="Terminado main principal" />
+    <MESSAGE value="Empezado ejercicio 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Empezado ejercicio 5" />
   </component>
 </project>
